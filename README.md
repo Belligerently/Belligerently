@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Belligerently
-- Currently working on a repo to guide people on easily installing linux for surface pro
-- Working on another guide to getting best 3ds homebrew apps + a mega folder
-
+- 👋 Hi, I’m Belligerently
+- Currently working a program similar to NeoFetch but for all operating systems and devices.
 <!---
 Belligerently/Belligerently is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
