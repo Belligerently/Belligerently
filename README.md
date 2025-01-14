@@ -2,8 +2,8 @@
 
 Welcome to my GitHub profile! I'm a passionate iOS developer who loves coding in Swift and enjoys exploring the intricate world of devices and operating systems. 
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBelligerently&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
-![GitHub Commits](https://img.shields.io/github/commit-activity/y/Belligerently/Belligerently?label=Commits&style=flat-square&color=blue)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBelligerently&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false&count_plus=true)
+![GitHub Commits](https://img.shields.io/github/commit-activity/t/Belligerently/Belligerently?label=Commits&style=flat-square&color=blue)
 
 ---
 
