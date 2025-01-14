@@ -2,8 +2,7 @@
 
 Welcome to my GitHub profile! I'm a passionate iOS developer who loves coding in Swift and enjoys exploring the intricate world of devices and operating systems. 
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBelligerently&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false&count_plus=true)
-![GitHub Commits](https://img.shields.io/github/commit-activity/t/Belligerently/Belligerently?label=Commits&style=flat-square&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Belligerently&color=blue&style=flat-square)
 
 ---
 
@@ -27,6 +26,9 @@ Welcome to my GitHub profile! I'm a passionate iOS developer who loves coding in
 - **[SpecMatrix](https://specmatrix.me/)**
 
 ---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Belligerently&show_icons=true&count_private=true&theme=dark)
+
 
 Feel free to check out my repositories and reach out if you'd like to collaborate or chat about iOS development, Swift, or anything tech-related.
 
