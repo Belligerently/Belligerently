@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate iOS developer who loves coding in
 
 ## Skills
 
-- **Languages**: Swift and some HTML.
+- **Languages**: Swift, HTML, CSS, C# and Some JavaScript.
 - **Tools & Platforms**: Xcode, iOS Development.
 
 ---
@@ -24,6 +24,7 @@ Welcome to my GitHub profile! I'm a passionate iOS developer who loves coding in
 ## Projects
 
 - **[SpecMatrix](https://specmatrix.me/)**
+- **[Cheat Launcher](https://cheat launcher.com)**
 
 ---
 
