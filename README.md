@@ -1,4 +1,4 @@
-# Hi there, I'm Belligerently! 
+# My name is Belligerently.
 
 ## Skills
 
@@ -8,6 +8,12 @@
 - CSS, 
 - C#
 - JavaScript
+
+**Types of Development**:
+- Discord Bots | discord.js and discord.py
+- Apps
+- Websites | 
+- Tampermonkey Scripts
 
 **Tools & Platforms**:
 - Xcode | iOS Development
