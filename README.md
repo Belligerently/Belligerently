@@ -8,6 +8,7 @@
 - CSS, 
 - C#
 - JavaScript
+- Python
 
 **Types of Development**:
 - Discord Bots | discord.js and discord.py
