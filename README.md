@@ -13,8 +13,8 @@
 **Types of Development**:
 - Discord Bots | discord.js and discord.py
 - Apps
-- Websites | 
-- Tampermonkey Scripts
+- Websites | Most JS frameworks
+- Tampermonkey Scripts | JS
 
 **Tools & Platforms**:
 - Xcode | iOS Development
