@@ -30,7 +30,7 @@
 - **[SpecMatrix](https://specmatrix.me/)**
 - **[Cheat Launcher](https://cheatlauncher.com)**
 - **[belligerently.dev](https://belligerently.dev)**
-- **[Nightly | Discord Not](https://github.com/Belligerently/Nightly)**
+- **[Nightly | Discord Bot](https://github.com/Belligerently/Nightly)**
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Belligerently&show_icons=true&count_private=true&theme=dark)
