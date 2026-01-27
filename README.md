@@ -33,4 +33,4 @@
 - **[Nightly | Discord Bot](https://github.com/Belligerently/Nightly)**
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Belligerently&show_icons=true&count_private=true&theme=dark)
+![Belligerently's GitHub stats](https://github-readme-stats.vercel.app/api?username=belligerently&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
