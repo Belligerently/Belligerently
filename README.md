@@ -1,27 +1,4 @@
-# My name is Belligerently.
-
-## Skills
-
-**Languages**: 
-- Swift
-- HTML
-- CSS, 
-- C#
-- JavaScript
-- Python
-
-**Types of Development**:
-- Discord Bots | discord.js and discord.py
-- Apps
-- Websites | Most JS frameworks
-- Tampermonkey Scripts | JS
-
-**Tools & Platforms**:
-- Xcode | iOS Development
-- VS Code | Everything else
-- GitHub CoPilot | Edits and assistance
-- ChatGPT | Ideas of things to make
-- Warp Terminal | Deployment for testing
+# My name is Zachary Aflalo.
 
 ---
 
