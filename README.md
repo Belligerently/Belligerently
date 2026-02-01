@@ -10,3 +10,4 @@
 - **[Zachary Aflalo](https://zacharyaflalo.com)**
 - **[Nightly | Discord Bot](https://github.com/Belligerently/Nightly)**
 ---
+<a rel="me" href="https://hachyderm.io/@zaflalo"></a>
