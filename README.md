@@ -1,4 +1,4 @@
-# My name is Zachary Aflalo.
+<img src="https://github.com/Belligerently/Belligerently/blob/main/logo1.png" width="200" />   
 
 ---
 
@@ -6,6 +6,7 @@
 
 - **[SpecMatrix](https://specmatrix.me/)**
 - **[Cheat Launcher](https://cheatlauncher.com)**
-- **[belligerently.dev](https://belligerently.dev)**
+- **[Belligerently](https://belligerently.dev)**
+- **[Zachary Aflalo](https://zacharyaflalo.com)**
 - **[Nightly | Discord Bot](https://github.com/Belligerently/Nightly)**
 ---
