@@ -4,7 +4,7 @@
 
 ## Projects
 
-- **[SpecMatrix](https://specmatrix.me/)**
+- **[SpecMatrix](https://github.com/SpecMatrix-App/SpecMatrix)**
 - **[Cheat Launcher](https://cheatlauncher.com)**
 - **[Belligerently](https://belligerently.dev)**
 - **[Zachary Aflalo](https://zacharyaflalo.com)**
