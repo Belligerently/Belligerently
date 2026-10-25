@@ -1,7 +1,6 @@
 <img src="https://github.com/Belligerently/Belligerently/blob/main/logo1.png" width="200" />   
 
 ---
-
 ## Projects
 
 - **[SpecMatrix](https://github.com/SpecMatrix-App/SpecMatrix)**
@@ -11,3 +10,5 @@
 - **[Nightly | Discord Bot](https://github.com/Belligerently/Nightly)**
 ---
 <a rel="me" href="https://hachyderm.io/@zaflalo"></a>
+
+## I also go by zaflalo
